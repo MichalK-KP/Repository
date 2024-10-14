@@ -1,0 +1,79 @@
+
+
+ul{
+ display: flex;
+ justify-content: space-evenly;
+ 
+}
+
+img:not(#Me){
+    max-height: 150px;
+}
+
+a{
+ text-decoration: none;
+ color: black;
+ margin-top: auto;
+ margin-bottom: auto;
+ font-size: 2rem;
+ font-family: 'Times New Roman', Times, serif;
+ margin-right: 2%;
+ 
+ 
+}
+
+
+
+#intro{
+    text-align: center;
+    max-width: 40vw;
+    margin: auto;
+}
+
+h1{
+    font-size: 5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    
+}
+
+#extra{
+    display: flex;
+    justify-content: center;
+    margin: auto ;
+    flex-direction: column;
+    max-width: 80vw;
+    margin-top: 5%;
+}
+
+hr{
+    height: 5px;
+    background-color: #000;
+    color: black;
+}
+
+header{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 5%;
+}
+
+.Main{
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ margin-top: 5%;
+ padding: 40px;
+ 
+ 
+   
+}
+
+
+
+
